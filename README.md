@@ -1,4 +1,4 @@
-# workindia_assignment
+# workindia_sde_assignment
 
 
 # Features
@@ -17,7 +17,7 @@
 
 # Installation
 
-- Clone the repository: git clone https://github.com/Akhilesh29/workindia_assignment.git    
+- Clone the repository: git clone https://github.com/Akhilesh29/workindia_sde_assignment.git    
 
 - cd workindia_assignment
 
