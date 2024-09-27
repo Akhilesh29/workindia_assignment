@@ -19,7 +19,7 @@
 
 - Clone the repository: git clone https://github.com/Akhilesh29/workindia_sde_assignment.git    
 
-- cd workindia_assignment
+- cd workindia_sde_assignment
 
 - Install dependencies: npm install
 
